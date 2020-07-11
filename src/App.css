@@ -5,7 +5,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background: lightblue url("https://i.postimg.cc/xdcPrqzb/postits3.png") no-repeat fixed center;
+  background: url("https://i.postimg.cc/xdcPrqzb/postits3.png") no-repeat fixed center;
 }
 
 
